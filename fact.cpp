@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
-
+void fun(){
+    cout<<"Hello"<<endl;
+}
 int main() {
     int n;
     long factorial = 1.0;
@@ -19,3 +21,4 @@ int main() {
 
     return 0;
 }
+
